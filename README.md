@@ -1,7 +1,5 @@
 ### If you made it here, then do follow mate! Help me grow. 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... MERN Stack Applications
 - 🌱 I’m currently learning ... React Js
 - 👯 I’m looking to collaborate on ... Any thing related to Websites
