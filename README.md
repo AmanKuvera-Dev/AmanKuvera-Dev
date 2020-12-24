@@ -14,14 +14,13 @@
 - 💬 Ask me about ... How I started developing websites
 - 📫 How to reach me: ... kuveraaman1999@gmail.com
 - ⚡ Fun fact: ... I learnt MERN in 2 months
-
-<br><br><br><br/>
+<br/>
 
 
 - Check Out Our Student Community : <a href="https://www.vitrendz.tech">VITrendzCommunity</a>
 - Check Out My MERN Application : <a href="https://clubs-and-chapters.web.app/">Clubs & Chapters</a>
 
-<br><br><br><br><br>
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=AmanKuvera-Dev&title=Joined2020,Commit,Stars,Followers,Repositories,PullRequest&column=3&margin-w=6&margin-h=10&theme=dracula">
-[<img align="left" src="https://github-readme-stats.vercel.app/api?username=AmanKuvera-Dev&show_icons=true&include_all_commits=true&theme=radical&count_private=true">](https://github.com/AmanKuvera-Dev)
+<br><br/>
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=AmanKuvera-Dev&title=Joined2020,Commit,Stars,Followers,Repositories,PullRequest&column=3&margin-w=6&margin-h=10&theme=dracula"/>
+[<img align="left" src="https://github-readme-stats.vercel.app/api?username=AmanKuvera-Dev&show_icons=true&include_all_commits=true&theme=radical&count_private=true"/>](https://github.com/AmanKuvera-Dev)
 
