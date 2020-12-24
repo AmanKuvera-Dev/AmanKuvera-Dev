@@ -17,7 +17,8 @@
 - ⚡ Fun fact: ... I learnt MERN in 2 months
 
 <br><br>
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=AmanKuvera-Dev&title=Joined2020,Commit,Stars,Followers,Repositories,PullRequest&column=3&margin-w=6&margin-h=10&theme=dracula">
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=AmanKuvera-Dev&title=Joined2020,Commit,Stars,Followers,Repositories,PullRequest&column=2&margin-w=6&margin-h=10&theme=dracula">
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=AmanKuvera-Dev&show_icons=true&include_all_commits=true&theme=radical&count_private=true">](https://github.com/AmanKuvera-Dev)
 
+[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanKuvera-Dev&layout=compact">](https://github.com/AmanKuvera-Dev)
