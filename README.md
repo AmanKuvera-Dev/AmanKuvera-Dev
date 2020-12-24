@@ -1,6 +1,7 @@
 <h1 align="left">👋 Hi there! I'm Aman Kuvera.</h1>
-<p align="left">I am a Web Developer and the founder of a small yet productive community.</p>
 <img align="right" src="https://drive.google.com/thumbnail?id=1PYR932X3KY-1WEbMbKY_Wyke46Nvs_af" height="500" width="550">  
+<p align="left">I am a Web Developer and the founder of a small yet productive community.</p>
+
   
   
 ### If you made it here, then do follow mate! Help me grow. 
