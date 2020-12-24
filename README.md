@@ -21,6 +21,6 @@
 - Check Out My MERN Application : <a href="https://clubs-and-chapters.web.app/">Clubs & Chapters</a>
 
 <br><br/>
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=AmanKuvera-Dev&title=Joined2020,Commit,Stars,Followers,Repositories,PullRequest&column=3&margin-w=15&margin-h=15&theme=dracula"/>
-[![trophy](https://github-readme-stats.vercel.app/api?username=AmanKuvera-Dev&show_icons=true&include_all_commits=true&theme=radical&count_private=true")](https://github.com/AmanKuvera-Dev)
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=AmanKuvera-Dev&title=Joined2020,Commit,Stars,Followers,Repositories,PullRequest&column=3&margin-w=15&margin-h=15&theme=dracula">
+[<img align="left" src="https://github-readme-stats.vercel.app/api?username=AmanKuvera-Dev&show_icons=true&include_all_commits=true&theme=radical&count_private=true">](https://github.com/AmanKuvera-Dev)
 
