@@ -2,7 +2,7 @@
 <p align="left">I am a Web Developer and the founder of a small yet productive community.</p>
 
 <img align="right" src="https://drive.google.com/thumbnail?id=1kiQfNT8U6jIyXEYiXttZtE7lnpoO7QIe" height="300px">  
-<hr>
+<p align="center">-------------------------------------</p>
 <br><br>
 - Check Out Our Student Community : <a href="https://www.vitrendz.tech">VITrendzCommunity</a>
 - Check Out My MERN Application : <a href="https://clubs-and-chapters.web.app/">Clubs & Chapters</a>
