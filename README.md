@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi there! I'm Aman Kuvera.</h1>
-<img align="right" src="https://drive.google.com/thumbnail?id=13OBYsL3MWjY-V6VZPpGp9fl4eASUyQ4X" height="600" width="600">  
+<img align="right" src="https://drive.google.com/thumbnail?id=1kiQfNT8U6jIyXEYiXttZtE7lnpoO7QIe" >  
 <p align="left">I am a Web Developer and the founder of a small yet productive community.</p>
 
   
