@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi there! I'm Aman Kuvera.<h1/>
-<img align="right" src="https://drive.google.com/thumbnail?id=1PYR932X3KY-1WEbMbKY_Wyke46Nvs_af" height="500" width="550">  
+
 
 ### If you made it here, then do follow mate! Help me grow. 
-
+<img align="right" src="https://drive.google.com/thumbnail?id=1PYR932X3KY-1WEbMbKY_Wyke46Nvs_af" height="500" width="550">  
 - 🔭 I’m currently working on ... MERN Stack Applications
 - 🌱 I’m currently learning ... React Js
 - 👯 I’m looking to collaborate on ... Any thing related to Websites
