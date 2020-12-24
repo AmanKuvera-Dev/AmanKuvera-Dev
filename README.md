@@ -2,13 +2,11 @@
 <p align="left">I am a Web Developer and the founder of a small yet productive community.</p>
 
 <img align="right" src="https://drive.google.com/thumbnail?id=1kiQfNT8U6jIyXEYiXttZtE7lnpoO7QIe" height="300px">  
-<br><br><br><br><br>
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=AmanKuvera-Dev&show_icons=true&include_all_commits=true&theme=radical&count_private=true">](https://github.com/AmanKuvera-Dev)
-<br><br><br><br>
+
+<br><br>
 - Check Out Our Student Community : <a href="https://www.vitrendz.tech">VITrendzCommunity</a>
 - Check Out My MERN Application : <a href="https://clubs-and-chapters.web.app/">Clubs & Chapters</a>
-  
-  <br><br><br><br>
+<br><br><br><br>
 ### If you made it here, then do follow mate! Help me grow. 
 
 - 🔭 I’m currently working on ... MERN Stack Applications
@@ -20,4 +18,7 @@
 
 <br><br><br><br><br>
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=AmanKuvera-Dev&title=Joined2020,Commit,Stars,Followers,Repositories,PullRequest&column=3&margin-w=6&margin-h=10&theme=dracula">
+
+<br><br><br><br><br>
+[<img align="right" src="https://github-readme-stats.vercel.app/api?username=AmanKuvera-Dev&show_icons=true&include_all_commits=true&theme=radical&count_private=true">](https://github.com/AmanKuvera-Dev)
 
