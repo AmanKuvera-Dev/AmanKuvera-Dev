@@ -1,4 +1,6 @@
-### If you made it here, then do follow mate! Help me grow. 👋
+<h1 align="center">👋 Hi there! I'm Aman Kuvera.<h1/> <hr/>
+
+### If you made it here, then do follow mate! Help me grow. 
 
 - 🔭 I’m currently working on ... MERN Stack Applications
 - 🌱 I’m currently learning ... React Js
